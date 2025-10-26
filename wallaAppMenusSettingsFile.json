@@ -1,0 +1,496 @@
+{
+  "upperMenu": [
+    {
+      "isActive": true,
+      "title": "מבזקים ",
+      "actionClickType": "category",
+      "clickId": "1001",
+      "categoryName": "Breaking News",
+      "verticalName": "News",
+      "verticalDomain": "news.walla.co.il",
+      "_id": "673f16f850df77895eb7b089"
+    },
+    {
+      "isActive": true,
+      "title": "News",
+      "actionClickType": "vertical",
+      "clickId": "10000",
+      "verticalName": "News",
+      "verticalDomain": "news.walla.co.il",
+      "_id": "673f16f850df77895eb7b08a"
+    },
+    {
+      "isActive": true,
+      "title": "Sports",
+      "actionClickType": "vertical",
+      "clickId": "10001",
+      "verticalName": "Sports",
+      "verticalDomain": "sports.walla.co.il",
+      "_id": "673f16f850df77895eb7b08b"
+    },
+    {
+      "isActive": true,
+      "title": "Culture",
+      "actionClickType": "vertical",
+      "clickId": "10003",
+      "verticalName": "Culture",
+      "verticalDomain": "e.walla.co.il",
+      "_id": "673f16f850df77895eb7b08c"
+    },
+    {
+      "isActive": true,
+      "title": "Celebs",
+      "actionClickType": "vertical",
+      "clickId": "10004",
+      "verticalName": "Celebs",
+      "verticalDomain": "celebs.walla.co.il",
+      "_id": "673f16f850df77895eb7b08d"
+    },
+    {
+      "isActive": true,
+      "title": "Money",
+      "actionClickType": "vertical",
+      "clickId": "10009",
+      "verticalName": "Money",
+      "verticalDomain": "finance.walla.co.il",
+      "_id": "673f16f850df77895eb7b091"
+    },
+    {
+      "isActive": true,
+      "title": "Food",
+      "actionClickType": "vertical",
+      "clickId": "10015",
+      "verticalName": "Food",
+      "verticalDomain": "food.walla.co.il",
+      "_id": "673f16f850df77895eb7b08e"
+    },
+    {
+      "isActive": true,
+      "title": "Health",
+      "actionClickType": "vertical",
+      "clickId": "10010",
+      "verticalName": "Health",
+      "verticalDomain": "healthy.walla.co.il",
+      "_id": "673f16f850df77895eb7b08f"
+    },
+    {
+      "isActive": true,
+      "title": "Travel",
+      "actionClickType": "vertical",
+      "clickId": "10016",
+      "verticalName": "Travel",
+      "verticalDomain": "travel.walla.co.il",
+      "_id": "67a0c968149a752907d0b127"
+    }
+  ],
+  "bottomMenu": [
+    {
+      "isActive": true,
+      "title": "Home",
+      "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/2/2/images/1707408935076_walla-media-picture_72x72.webp",
+      "actionClickType": "innerPage",
+      "innerPagePath": "hp",
+      "_id": "673f16f850df77895eb7b096"
+    },
+    {
+      "isActive": true,
+      "title": "Breaking News",
+      "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/8/5/images/1724925188539_walla-media-picture_96x96.webp",
+      "actionClickType": "category",
+      "clickId": "1001",
+      "categoryName": "Breaking News",
+      "verticalName": "News",
+      "verticalDomain": "news.walla.co.il",
+      "_id": "673f16f850df77895eb7b097"
+    },
+    {
+      "isActive": true,
+      "title": "וידאו",
+      "iconImage": "https://images.wcdn.co.il/3/9/3/3/3933847-46",
+      "actionClickType": "innerPage",
+      "innerPagePath": "quick",
+      "_id": "673f16f850df77895eb7b098"
+    },
+    {
+      "isActive": true,
+      "title": "Hot on Walla",
+      "iconImage": "https://images.wcdn.co.il/3/9/3/3/3933431-46",
+      "actionClickType": "category",
+      "clickId": "1118",
+      "categoryName": "Hot on Walla",
+      "verticalName": "News",
+      "verticalDomain": "news.walla.co.il",
+      "_id": "689201b73e4455a930f18d7e"
+    },
+    {
+      "isActive": true,
+      "title": "Personal",
+      "iconImage": "https://image-resizer-walla.walla.cloud/image/2025/1/4/images/1737567685667_walla-media-picture_96x96.webp",
+      "actionClickType": "innerPage",
+      "innerPagePath": "profile",
+      "_id": "673f16f850df77895eb7b09a"
+    }
+  ],
+  "sideMenu": {
+    "social": [
+      {
+        "isActive": true,
+        "imageUrl": "https://image-resizer-walla.walla.cloud/image/2024/12/5/images/1735464307725_walla-media-picture_128x129.webp",
+        "actionClickType": "external",
+        "url": "https://www.facebook.com/wallanews?locale=he_IL",
+        "_id": "673f16f850df77895eb7b09c"
+      },
+      {
+        "isActive": true,
+        "imageUrl": "https://image-resizer-walla.walla.cloud/image/2024/12/5/images/1735464365631_walla-media-picture_128x129.webp",
+        "actionClickType": "external",
+        "url": "https://www.tiktok.com/@walla.news",
+        "_id": "673f16f850df77895eb7b09d"
+      },
+      {
+        "isActive": true,
+        "imageUrl": "https://image-resizer-walla.walla.cloud/image/2024/12/5/images/1735464429000_walla-media-picture_128x129.webp",
+        "actionClickType": "external",
+        "url": "https://www.instagram.com/wallanews/",
+        "_id": "673f16f850df77895eb7b09e"
+      },
+      {
+        "isActive": true,
+        "imageUrl": "https://image-resizer-walla.walla.cloud/image/2024/12/5/images/1735464475452_walla-media-picture_128x129.webp",
+        "actionClickType": "external",
+        "url": "https://x.com/WallaNews",
+        "_id": "673f16f850df77895eb7b09f"
+      }
+    ],
+    "items": [
+      {
+        "isActive": true,
+        "title": "Home Page",
+        "actionClickType": "innerPage",
+        "innerPagePath": "hp",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735044867524_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "_id": "6762904aa248b29160c1c522"
+      },
+      {
+        "isActive": true,
+        "title": "News",
+        "actionClickType": "vertical",
+        "clickId": "10000",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735046596628_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "News",
+        "verticalDomain": "news.walla.co.il",
+        "_id": "673f16f850df77895eb7b0a1"
+      },
+      {
+        "isActive": true,
+        "title": "Sports",
+        "actionClickType": "vertical",
+        "clickId": "10001",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735046629682_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Sports",
+        "verticalDomain": "sports.walla.co.il",
+        "_id": "673f16f850df77895eb7b0a2"
+      },
+      {
+        "isActive": true,
+        "title": "Don’t Miss",
+        "actionClickType": "vertical",
+        "clickId": "10029",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2025/5/1/images/1746451866244_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Don’t Miss",
+        "_id": "67ab22c26aa10e8bd93ed8eb"
+      },
+      {
+        "isActive": true,
+        "title": "Culture",
+        "actionClickType": "vertical",
+        "clickId": "10003",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735046707176_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Culture",
+        "verticalDomain": "e.walla.co.il",
+        "_id": "673f16f850df77895eb7b0a4"
+      },
+      {
+        "isActive": true,
+        "title": "Celebs",
+        "actionClickType": "vertical",
+        "clickId": "10004",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735046748063_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Celebs",
+        "verticalDomain": "celebs.walla.co.il",
+        "_id": "673f16f850df77895eb7b0a5"
+      },
+      {
+        "isActive": true,
+        "title": "Money",
+        "actionClickType": "vertical",
+        "clickId": "10009",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735046801805_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Money",
+        "verticalDomain": "finance.walla.co.il",
+        "_id": "673f16f850df77895eb7b0a6"
+      },
+      {
+        "isActive": true,
+        "title": "Food",
+        "actionClickType": "vertical",
+        "clickId": "10015",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735046828992_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Food",
+        "verticalDomain": "food.walla.co.il",
+        "_id": "673f16f850df77895eb7b0a7"
+      },
+      {
+        "isActive": true,
+        "title": "Walla+",
+        "actionClickType": "vertical",
+        "clickId": "10018",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735046897893_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Walla+",
+        "_id": "6763fe5719e29024e9594dae"
+      },
+      {
+        "isActive": true,
+        "title": "Health",
+        "actionClickType": "vertical",
+        "clickId": "10010",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735046935710_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Health",
+        "verticalDomain": "healthy.walla.co.il",
+        "_id": "673f16f850df77895eb7b0a8"
+      },
+      {
+        "isActive": true,
+        "title": "Travel",
+        "actionClickType": "vertical",
+        "clickId": "10016",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735046970731_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Travel",
+        "verticalDomain": "travel.walla.co.il",
+        "_id": "673f16f850df77895eb7b0a9"
+      },
+      {
+        "isActive": true,
+        "title": "Real Estate",
+        "actionClickType": "vertical",
+        "clickId": "10006",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735047044030_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "נדל\"ן",
+        "verticalDomain": "nadlan.walla.co.il",
+        "_id": "6763ff5919e29024e9596395"
+      },
+      {
+        "isActive": true,
+        "title": "Technology",
+        "actionClickType": "vertical",
+        "clickId": "10002",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735047065286_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Technology",
+        "verticalDomain": "tech.walla.co.il",
+        "_id": "6764000419e29024e9597260"
+      },
+      {
+        "isActive": true,
+        "title": "Cars",
+        "actionClickType": "vertical",
+        "clickId": "10008",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735047112970_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Cars",
+        "verticalDomain": "cars.walla.co.il",
+        "_id": "676400b519e29024e9598454"
+      },
+      {
+        "isActive": true,
+        "title": "Fashion",
+        "actionClickType": "vertical",
+        "clickId": "10014",
+        "iconImage": "https://image-resizer-walla-dev.walla.cloud/image/2024/8/5/images/1724933178116_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Fashion",
+        "verticalDomain": "fashion.walla.co.il",
+        "_id": "673f16f850df77895eb7b0aa"
+      },
+      {
+        "isActive": true,
+        "title": "Branja (Media)",
+        "actionClickType": "vertical",
+        "clickId": "10024",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2025/1/1/images/1735818756918_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Branja (Media)",
+        "verticalDomain": "b.walla.co.il",
+        "_id": "67765433353796a18ea91754"
+      },
+      {
+        "isActive": true,
+        "title": "Career",
+        "actionClickType": "vertical",
+        "clickId": "10030",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2025/5/3/images/1747732582686_walla-media-picture_49x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Career",
+        "verticalDomain": "career.walla.co.il",
+        "_id": "682c4867e3965ad338ea44fc"
+      },
+      {
+        "isActive": true,
+        "title": "Sheva South",
+        "actionClickType": "vertical",
+        "clickId": "10017",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2025/1/1/images/1735818857407_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Sheva South",
+        "verticalDomain": "sheva7.walla.co.il",
+        "_id": "6776550b353796a18ea92ea6"
+      },
+      {
+        "isActive": true,
+        "title": "Crypto",
+        "actionClickType": "external",
+        "url": "https://crypto.walla.co.il/?utm_source=Walla&utm_medium=Banner&utm_campaign=Hamburger_app",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735046801805_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "_id": "68d545eced7a51ea235ca772"
+      },
+      {
+        "isActive": true,
+        "title": "Local",
+        "actionClickType": "vertical",
+        "clickId": "10025",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2025/1/1/images/1735818820755_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Local",
+        "verticalDomain": "mekomi.walla.co.il",
+        "_id": "6776547b353796a18ea91e6f"
+      },
+      {
+        "isActive": true,
+        "title": "Spirit & Horoscope",
+        "actionClickType": "vertical",
+        "clickId": "10013",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2025/1/1/images/1735818922968_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Horoscope",
+        "_id": "67765581353796a18ea93b02"
+      },
+      {
+        "isActive": true,
+        "title": "Legal",
+        "actionClickType": "vertical",
+        "clickId": "10026",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2025/1/1/images/1735819002856_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Legal",
+        "_id": "67765748353796a18ea9691f"
+      },
+      {
+        "isActive": true,
+        "title": "Judaism",
+        "actionClickType": "vertical",
+        "clickId": "10022",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735047161466_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "verticalName": "Judaism",
+        "verticalDomain": "judaism.walla.co.il",
+        "_id": "673f16f850df77895eb7b0ae"
+      },
+      {
+        "isActive": true,
+        "title": "Walla Wedding",
+        "actionClickType": "external",
+        "url": "https://mazaltov.walla.co.il/",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2025/5/1/images/1746435568842_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "_id": "68187df150a67b9f67e51e85"
+      },
+      {
+        "isActive": true,
+        "title": "Yoram Studies",
+        "actionClickType": "external",
+        "url": "https://yoram.walla.co.il/",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2025/5/3/images/1747732582686_walla-media-picture_49x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "_id": "685d03938167fc02e9137840"
+      },
+      {
+        "isActive": true,
+        "title": "Keeping a Finger on the Pulse",
+        "actionClickType": "webView",
+        "url": "https://sanofi.walla.co.il/",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735046897893_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "_id": "67978d7989c01f36496562be"
+      },
+      {
+        "isActive": true,
+        "title": "Small Businesses",
+        "actionClickType": "external",
+        "url": "https://b144.walla.co.il/",
+        "iconImage": "https://images.wcdn.co.il/3/9/4/1/3941973-46",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "_id": "68aec025e310ac929f221858"
+      },
+      {
+        "isActive": true,
+        "title": "Amit Guide",
+        "actionClickType": "webView",
+        "url": "https://melave.walla.co.il/",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735046897893_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "_id": "67978da589c01f36496567a5"
+      },
+      {
+        "isActive": true,
+        "title": "A Sip of Shikma",
+        "actionClickType": "webView",
+        "url": "https://shikma.walla.co.il/",
+        "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/12/4/images/1735046897893_walla-media-picture_48x45.webp",
+        "type": "menuItem",
+        "adUnitSizes": [],
+        "_id": "67978dd3e3d8d2aa65ff2037"
+      }
+    ]
+  }
+}

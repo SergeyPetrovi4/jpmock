@@ -1,0 +1,2376 @@
+{
+    "sections": [
+        {
+            "type": 7,
+            "_id": "673f16f750df77895eb7ac9b",
+            "items": [
+                {
+                    "id": "418c106b-833f-467f-8f9e-885214c5cc3d",
+                    "adUnitSizes": [
+                        {
+                            "width": "320",
+                            "height": "50",
+                            "_id": "675ae61deef3ca28a7f263fb"
+                        }
+                    ],
+                    "adUnitName": "/43010785/wallanews/main/top_mobile_app",
+                    "isFluid": true,
+                    "adType": "google"
+                }
+            ]
+        },
+        {
+            "_id": "673f16f750df77895eb7aca0",
+            "type": 1,
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "actionClickType": "none",
+            "items": [
+                {
+                    "id": "3788074",
+                    "date": 1760875484,
+                    "title": "Hamas folding? \"We have no connection with the squads in the Rafah area\"",
+                    "subtitle": "Despite the escalation of fighting in Rafah, the army continues to thin out forces and return heavy equipment to Israel. The Air Force attacked. Katz: The response to Hamas - today",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Amir Bohbot",
+                            "url": "https://news.walla.co.il/writer/2",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/3/2/3832596-46"
+                        },
+                        {
+                            "name": "Liran Aharoni",
+                            "url": "https://news.walla.co.il/writer/2353",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/3/2/3832635-46"
+                        },
+                        {
+                            "name": "Idan Kovaler",
+                            "url": "https://news.walla.co.il/writer/2403",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/9/4/3/3943398-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/f_auto,q_auto,w_500,t_t_54/3/9/6/2/3962690-46",
+                            "title": "Hamas terrorists",
+                            "credit": "Reuters"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 479,
+                    "preTitle": "Violation of the ceasefire",
+                    "link": "https://news.walla.co.il/item/3788074"
+                }
+            ]
+        },
+        {
+            "_id": "673f16f750df77895eb7aca4",
+            "type": 4,
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "actionClickType": "none",
+            "items": [
+                {
+                    "id": "3788041",
+                    "date": 1760866229,
+                    "title": "What caused the collapse of the ceasefire? This is the sequence of events",
+                    "subtitle": "",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Amir Bohbot",
+                            "url": "https://news.walla.co.il/writer/2",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/3/2/3832596-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963125-46",
+                            "title": "Attacks in Gaza amid the ceasefire. October 19, 2025",
+                            "credit": "Documentation on social networks according to section 27a of the Copyright Law"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 214,
+                    "preTitle": "Step by step",
+                    "link": "https://news.walla.co.il/item/3788041"
+                },
+                {
+                    "id": "3788082",
+                    "date": 1760875201,
+                    "title": "The punishment imposed on the son of \"Faisal the Great\" who ran over Amit to death",
+                    "subtitle": "The Haifa District Court also imposed a suspended sentence on him and financial compensation in the amount of 350 thousand shekels. His lawyers are expected to appeal the verdict and the conviction - with emphasis on the conviction for the offense of abandonment in the accident that occurred in 2022. Judge Amir Tobi: \"The severity of the offenses is summed up in his conduct since the accident and actually until today\"",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Yoav Itiel",
+                            "url": "https://news.walla.co.il/writer/1173",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/5/9/9/3599118-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/8/4/3/3843952-46",
+                            "title": "Captain Amit Itach z\"l",
+                            "credit": "Courtesy of the family"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 28,
+                    "preTitle": "Serious conduct",
+                    "link": "https://news.walla.co.il/item/3788082"
+                },
+                {
+                    "id": "3787969",
+                    "date": 1760876679,
+                    "title": "Right after they returned home: The first message from Gali and Zivi",
+                    "subtitle": "Thousands of residents welcomed David and Ariel Cunio today, who were released from the hospital and will return home after more than two years in Hamas captivity. Meanwhile in Kfar Aza and Beit Guvrin - celebrating the arrival of the brothers Gali and Ziv. Also in Kiryat Malakhi awaiting the return of Yosef Haim Ohana",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Uri Sela",
+                            "url": "https://news.walla.co.il/writer/2147",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/3/2/3832593-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0.07166666666666667,y_0.044642857142857144,w_0.8651851851851852,c_crop,f_auto/t_54/3/9/6/2/3962780-46",
+                            "title": "Captivity survivors Ziv and Gali Berman in a thank you video after returning home",
+                            "credit": "Official website"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 113,
+                    "preTitle": "\"The people of Israel live\"",
+                    "link": "https://news.walla.co.il/item/3787969"
+                },
+                {
+                    "id": "3777862",
+                    "title": "The silent liver disease - the organ that functions as the diligent worker in our body",
+                    "subtitle": "The liver is responsible for thousands of actions in the body, including breaking down toxins and maintaining body heat. Despite its immense importance, liver cancer is usually discovered only in advanced stages of the disease. What is the connection between the disease and fatty food and alcohol consumption, in which places in the world the disease is common and about the new treatments. Watch",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Sponsored by AstraZeneca",
+                            "imageUrl": "https://image-resizer-walla.walla.cloud/image/2024/3/2/images/1710071176850_walla-media-picture_96x97.webp"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/6/5/1/3651134-46",
+                            "title": "Young man with liver cancer",
+                            "credit": "ShutterStock"
+                        }
+                    ],
+                    "marketingContent": true,
+                    "totalComments": 0,
+                    "link": "https://healthy.walla.co.il/item/3777862"
+                },
+                {
+                    "id": "3788063",
+                    "date": 1760870002,
+                    "title": "\"Monsters cut off your life\": Hundreds at the funeral of Uriel Baruch z\"l",
+                    "subtitle": "Hundreds came to Har HaMenuchot to accompany Uriel Baruch on his last journey, who was kidnapped from the Nova party and his body was returned to Israel last week after more than two years in captivity in Gaza. His wife Rivka: \"We had many more plans, but evil monsters cut off your life\". His brother Roi: \"I promise you, I will make sure you are remembered forever\"",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Uri Sela",
+                            "url": "https://news.walla.co.il/writer/2147",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/3/2/3832593-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963233-46",
+                            "title": "The funeral of Uriel Baruch, Har HaMenuchot Cemetery in Jerusalem. October 19, 2025",
+                            "credit": "Official website"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 12,
+                    "preTitle": "After two years",
+                    "link": "https://news.walla.co.il/item/3788063"
+                }
+            ]
+        },
+        {
+            "type": 7,
+            "_id": "67ebc48aaaf7ffcc3da9483f",
+            "items": [
+                {
+                    "id": "c574abc7-54cd-4cc2-834e-bd8bc4bf7918",
+                    "adUnitSizes": [
+                        {
+                            "width": "320",
+                            "height": "50",
+                            "_id": "67ebc526aaf7ffcc3da95cab"
+                        },
+                        {
+                            "width": "320",
+                            "height": "100",
+                            "_id": "67ebc526aaf7ffcc3da95cac"
+                        },
+                        {
+                            "width": "320",
+                            "height": "170",
+                            "_id": "67ebc526aaf7ffcc3da95cad"
+                        }
+                    ],
+                    "adUnitName": "/43010785/wallanews/main/vertical_strip_mobile_app_Happening_now",
+                    "isFluid": true,
+                    "adType": "google"
+                }
+            ]
+        },
+        {
+            "_id": "673f16f750df77895eb7acb6",
+            "type": 13,
+            "foregroundColor": "#F9B402",
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "mainTitle": "Food",
+            "actionClickType": "vertical",
+            "clickId": "10015",
+            "verticalName": "Food",
+            "verticalDomain": "food.walla.co.il",
+            "items": [
+                {
+                    "id": "3786524",
+                    "date": 1761170400,
+                    "title": "A sane restaurant, from the food to the price",
+                    "subtitle": "An optimistic story, we deserve one too",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Avi Afriati",
+                            "url": "https://food.walla.co.il/writer/31"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_54/3/6/4/3/3643526-46",
+                            "title": "Wat Sang Sushi & More, Tel Aviv",
+                            "credit": ""
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 0,
+                    "link": "https://food.walla.co.il/item/3786524"
+                },
+                {
+                    "id": "3787476",
+                    "date": 1761170987,
+                    "title": "Genius. Amazing they managed to pull this off",
+                    "subtitle": "For many people it will look like chaos. Within it, though, only good decisions await you",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Yaniv Granot",
+                            "url": "https://news.walla.co.il/writer/1179",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/2/5/9/5/2595931-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_41/3/9/6/2/3962356-46",
+                            "title": "OBI, Tel Aviv",
+                            "credit": "Walla System"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 0,
+                    "link": "https://food.walla.co.il/item/3787476"
+                },
+                {
+                    "id": "3604085",
+                    "date": 1761102000,
+                    "title": "A truly rare deal from Eyal Shani, and 21 more great lunch specials",
+                    "subtitle": "The most worthwhile meals of the day, and a bit more",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Yaniv Granot",
+                            "url": "https://news.walla.co.il/writer/1179",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/2/5/9/5/2595931-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_41/3/8/9/4/3894716-46",
+                            "title": "Restaurant a, Tel Aviv",
+                            "credit": ""
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 0,
+                    "link": "https://food.walla.co.il/item/3604085"
+                },
+                {
+                    "id": "3787420",
+                    "date": 1761170400,
+                    "title": "Half price?! The cookies that faced a multimillion lawsuit aren’t afraid of Abadi",
+                    "subtitle": "A blue-and-white symbol, an Italian landing, an American hit: the new tasters on the shelf took off",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Yaniv Granot",
+                            "url": "https://news.walla.co.il/writer/1179",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/2/5/9/5/2595931-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_41/3/9/6/4/3964357-46",
+                            "title": "Middle Eastern cookies, Achva",
+                            "credit": ""
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 0,
+                    "link": "https://food.walla.co.il/item/3787420"
+                },
+                {
+                    "id": "3787193",
+                    "date": 1761106425,
+                    "title": "If you manage to find it, you’ve hit the jackpot",
+                    "subtitle": "A place for the neighborhood, the community, and anyone who’s thirsty. Find it — and don’t leave",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Yaniv Granot",
+                            "url": "https://news.walla.co.il/writer/1179",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/2/5/9/5/2595931-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_41/3/9/6/1/3961726-46",
+                            "title": "Coffee Shop 51, Givatayim",
+                            "credit": ""
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 0,
+                    "link": "https://food.walla.co.il/item/3787193"
+                }
+            ]
+        },
+        {
+            "_id": "673f16f750df77895eb7aca7",
+            "type": 4,
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "actionClickType": "none",
+            "items": [
+                {
+                    "id": "3788045",
+                    "date": 1760866753,
+                    "title": "They returned from hell - but for the government it's still not enough",
+                    "subtitle": "Captivity survivors returned after more than two years in tunnels in Gaza where they suffered torture and extreme hunger - but the State of Israel gives them only 50% disability and a monthly allowance of only 3,300 shekels. Despite broad political agreement and National Insurance ready to implement - the Knesset still does not raise the disability percentages to 100%",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Liat Ron",
+                            "url": "https://finance.walla.co.il/writer/2098",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/2/7/2/3272786-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/1/3961170-46",
+                            "title": "Guy Gilboa Dalal \r\nAvitar David",
+                            "credit": "IDF Spokesperson"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 83,
+                    "preTitle": "3,300 per month?",
+                    "link": "https://finance.walla.co.il/item/3788045"
+                },
+                {
+                    "id": "3787960",
+                    "date": 1760854885,
+                    "title": "It's inconceivable that Netanyahu was not confronted on Channel 14 with his crazy statement",
+                    "subtitle": "In \"Meet the Press\" they still haven't understood that every time they give the stage to Ben Gvir, the stain sticks to them too. On Channel 14 they failed to prevent Netanyahu from stumbling, but above the two politicians stood a heroic woman who conquered not only tens of thousands in the square, but also the hearts of viewers at home",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Nir Kipnis",
+                            "url": "https://finance.walla.co.il/writer/2064",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/4/1/3841656-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963056-46",
+                            "title": "Netanyahu in an interview with Yinon Magal on Channel 14",
+                            "credit": "Screenshot"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 1752,
+                    "preTitle": "What did we expect?",
+                    "link": "https://e.walla.co.il/item/3787960"
+                },
+                {
+                    "id": "3783808",
+                    "title": "Coffee after meat: Strauss's CowFree opens new menus",
+                    "subtitle": "No longer a \"substitute\" but another intriguing path: The new CowFree series brings back taste and texture like milk, with Yotvata drink for coffee and foaming and Symphony spread for desserts, baking and spreading. \"There is no other product that can give this combination\"",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "In collaboration with Strauss",
+                            "imageUrl": "https://image-resizer-walla.walla.cloud/image/2024/3/2/images/1710071176850_walla-media-picture_96x97.webp"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/4/8/3948059-46",
+                            "title": "Strauss's CowFree product series",
+                            "credit": ""
+                        }
+                    ],
+                    "marketingContent": true,
+                    "totalComments": 0,
+                    "link": "https://food.walla.co.il/item/3783808"
+                },
+                {
+                    "id": "3788015",
+                    "date": 1760866200,
+                    "title": "Sanne burning: The man who will save Manchester United at Anfield?",
+                    "subtitle": "Sanne Lamens is expected to be one of the busiest people when Liverpool hosts Manchester United (18:30, Sport1). The Belgian goalkeeper burst almost out of nowhere, but one of his former coaches is not surprised: \"He has everything that characterizes the great goalkeepers\"",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Walla Sports System",
+                            "url": "https://sports.walla.co.il/",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/6/9/3/3693190-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963131-46",
+                            "title": "Manchester United goalkeeper, Sanne Lamens",
+                            "credit": "GettyImages"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 4,
+                    "preTitle": "18:30, Sport1",
+                    "link": "https://sports.walla.co.il/item/3788015"
+                },
+                {
+                    "id": "41a0d1dc-291b-499c-b3f7-3872f163099a",
+                    "taboolaMode": "thumbnails-stream-mob",
+                    "taboolaPlacement": "HP Native",
+                    "isEndless": false,
+                    "adType": "taboola"
+                },
+                {
+                    "id": "3788018",
+                    "date": 1760863132,
+                    "title": "Fire broke out in the compartment above the passengers. The plane made an emergency landing",
+                    "subtitle": "On a flight from China to South Korea, a bag with a lithium battery caught fire. Footage from the incident shows smoke and flames bursting from the luggage compartment above the seats, while the flight crew rushes to the scene",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Walla Tourism System",
+                            "url": "https://travel.walla.co.il/",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/8/2/0/3820028-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963178-46",
+                            "title": "Lithium battery ignited in the compartment above the passengers on the plane",
+                            "credit": "Screenshot"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 8,
+                    "preTitle": "Watch the documentation",
+                    "link": "https://travel.walla.co.il/item/3788018"
+                },
+                {
+                    "id": "3788051",
+                    "date": 1760870994,
+                    "title": "Egged presents a new app, an alternative to Moovit",
+                    "subtitle": "After years in which Moovit dominated the market almost alone, the Egged Group is launching \"egg\" - a new public transportation app that promises an ad-free user experience. It centralizes all travel services in one app, and puts a question mark on the dominant advertising model in the field",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Yinon Ben Shushan",
+                            "url": "https://tech.walla.co.il/writer/2082",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/5/9/6/3596735-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963218-46",
+                            "title": "egg app",
+                            "credit": "Walla! Technology"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 27,
+                    "preTitle": "Without ads",
+                    "link": "https://tech.walla.co.il/item/3788051"
+                }
+            ]
+        },
+        {
+            "type": 7,
+            "_id": "688f47155712b99389a97275",
+            "items": [
+                {
+                    "id": "30d22817-e9e6-450c-9a8e-55cecaec2959",
+                    "adUnitSizes": [
+                        {
+                            "width": "320",
+                            "height": "100",
+                            "_id": "688f4c015712b99389a9ac2a"
+                        }
+                    ],
+                    "adUnitName": "/43010785/wallanews/main/vertical_strip_mobile_app_news_24_7",
+                    "isFluid": true,
+                    "adType": "google"
+                }
+            ]
+        },
+        {
+            "_id": "688b6ce19545b395f34f1743",
+            "type": 4,
+            "foregroundColor": "#066BED",
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "mainTitle": "Walla 24/7",
+            "actionClickType": "none",
+            "items": [
+                {
+                    "id": "3788048",
+                    "date": 1760867394,
+                    "title": "\"The Religious Reform\": This is how they distance Israel's tradition from the people of Israel",
+                    "subtitle": "Those who seek to impose religious symbols on the entire public are doing a very bad service to Judaism and distancing from it those who were willing to approach it with joy, if only they had asked them nicely",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Nir Kipnis",
+                            "url": "https://finance.walla.co.il/writer/2064",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/4/1/3841656-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/5/0/3/3503283-46",
+                            "title": "Prayer in synagogue",
+                            "credit": "ShutterStock"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 22,
+                    "link": "https://news.walla.co.il/item/3788048"
+                },
+                {
+                    "id": "3788031",
+                    "date": 1760872982,
+                    "title": "Nova party survivors criticize: \"Dealing with proving disability\"",
+                    "subtitle": "Omer Leshem, Nova survivor, said in a Knesset discussion dealing with the medical recognition process: \"We need everyone's help\". Representative of the Nova tribe community said: \"Roi had all the risk factors\". Meshi Sandrovich, from the Rehabilitation Division at National Insurance, noted: \"Waiting times are not long\"",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Avichai Haim",
+                            "url": "https://news.walla.co.il/writer/2299",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/4/1/3841553-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/8/5/2/3852601-46",
+                            "title": "Nova party complex, October 12, 2023",
+                            "credit": "Flash 90"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 5,
+                    "link": "https://news.walla.co.il/item/3788031"
+                },
+                {
+                    "id": "3788036",
+                    "date": 1760866437,
+                    "title": "The body of Sontaya Oukarsri that was returned to Israel tonight was identified",
+                    "subtitle": "",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Yehuda Shlezinger",
+                            "url": "https://news.walla.co.il/writer/2402",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/9/4/4/3944552-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963208-46",
+                            "title": "Sontaya Akrasi",
+                            "credit": "Documentation on social networks according to section 27a of the Copyright Law"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 14,
+                    "link": "https://news.walla.co.il/item/3788036"
+                },
+                {
+                    "id": "3787947",
+                    "date": 1760849702,
+                    "title": "Bad news: Tel Aviv Municipality returned to giving tickets for this",
+                    "subtitle": "In 2010 the Knesset approved parking on weekends and holidays at bus stops. Despite this, enforcement was renewed in Tel Aviv against drivers parking at stops. Tel Aviv Municipality: \"The city operates a pleasant service on weekends, parking is not permitted at every stop\"",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Udi Etzion",
+                            "url": "https://cars.walla.co.il/writer/2206",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/4/1/3841662-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/5/4/3/3543609-46",
+                            "title": "Parking ticket",
+                            "credit": "Reuven Castro"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 85,
+                    "link": "https://cars.walla.co.il/item/3787947"
+                },
+                {
+                    "id": "3787858",
+                    "date": 1760855095,
+                    "title": "Eden Pines: \"I was engaged? What suddenly, I don't know such a scenario\"",
+                    "subtitle": "The model and presenter came to a filming day for the first time since receiving the marriage proposal from the singer - and she really didn't expect the question about the previous engagements | Watch",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Maor Ben Harush",
+                            "url": "https://celebs.walla.co.il/writer/2119",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/3/0/1/3301602-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/2/3962438-46",
+                            "title": "Eden Pines. IL MAKIAGE",
+                            "credit": ""
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 38,
+                    "link": "https://celebs.walla.co.il/item/3787858"
+                },
+                {
+                    "id": "3787802",
+                    "date": 1760821200,
+                    "title": "This excellent series looks like a remnant from Netflix's golden age",
+                    "subtitle": "The third season of \"The Diplomat\" brings its combination of ingredients to a peak: Relationships, marital and diplomatic, are built gradually and with careful planning, and prove that even if we thought we knew the characters and how they operate, there is much more to them. The combination of wonderful acting and sharp writing creates simply excellent television",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Ilan Kaprov",
+                            "url": "https://e.walla.co.il/writer/325",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/2/0/7/5/2075996-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0.11833333333333333,y_0.08786610878661087,w_0.8355555555555554,c_crop,f_auto/t_54/3/9/6/2/3962680-46",
+                            "title": "Keri Russell, \"The Diplomat\" season 3",
+                            "credit": ""
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 10,
+                    "link": "https://e.walla.co.il/item/3787802"
+                },
+                {
+                    "id": "7761f608-e6e5-41ac-bf08-30b1db9d89ca",
+                    "title": "Come meet the businesses behind the For the North initiative",
+                    "subtitle": "",
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/4/2/3942373-46",
+                            "title": "For the North - Businesses page",
+                            "credit": ""
+                        }
+                    ],
+                    "link": "https://special.walla.co.il/40UpNorth/",
+                    "marketingContent": true,
+                    "writers": [
+                        {
+                            "name": "In collaboration with the National Lottery",
+                            "imageUrl": "https://image-resizer-walla.walla.cloud/image/2024/3/2/images/1710071176850_walla-media-picture_96x97.webp"
+                        }
+                    ]
+                },
+                {
+                    "id": "3787113",
+                    "date": 1760512522,
+                    "title": "Winter time 2025 in Israel: When do we move the clock? | The complete guide",
+                    "subtitle": "On the night between Saturday and Sunday, at 2:00 a.m. we will be required to move the clock hands one hour back to 1:00. This will indeed lose an additional hour of light - but we will gain an hour of sleep. How to set the clock on the mobile device and when do we return to summer time? | The complete guide",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Walla News System",
+                            "url": "https://news.walla.co.il/",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/8/2/0/3820010-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/3/0/0/3300867-46",
+                            "title": "Winter time 2024",
+                            "credit": "Walla system"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 159,
+                    "link": "https://news.walla.co.il/item/3787113"
+                },
+                {
+                    "id": "dbb7a17b-36cc-4af1-961f-6cc22f2fb46b",
+                    "title": "The special complex to mark two years since October 7",
+                    "subtitle": "",
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/1/3961666-46",
+                            "title": "Teaser image for the civilian front complex",
+                            "credit": "Image processing"
+                        }
+                    ],
+                    "link": "https://civilfront.walla.co.il/",
+                    "marketingContent": false
+                }
+            ]
+        },
+        {
+            "type": 7,
+            "_id": "67ebc4ceaaf7ffcc3da95463",
+            "items": [
+                {
+                    "id": "72602c0b-32bb-489a-b610-daacc891b7d6",
+                    "adUnitSizes": [
+                        {
+                            "width": "320",
+                            "height": "50",
+                            "_id": "67ebc5324b964a9bc1094d88"
+                        },
+                        {
+                            "width": "320",
+                            "height": "170",
+                            "_id": "67ebc5324b964a9bc1094d89"
+                        },
+                        {
+                            "width": "320",
+                            "height": "100",
+                            "_id": "67ebc5324b964a9bc1094d8a"
+                        }
+                    ],
+                    "adUnitName": "/43010785/wallanews/main/vertical_strip_mobile_app_Up_News",
+                    "isFluid": true,
+                    "adType": "google"
+                }
+            ]
+        },
+        {
+            "_id": "673f16f750df77895eb7acae",
+            "type": 2,
+            "foregroundColor": "#386BED",
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "mainTitle": "News",
+            "actionClickType": "vertical",
+            "clickId": "10000",
+            "verticalName": "News",
+            "verticalDomain": "news.walla.co.il",
+            "items": [
+                {
+                    "id": "3788044",
+                    "date": 1760867310,
+                    "title": "Kara'i found another reason to change the name of the war: \"In Gematria it's like Bibi\"",
+                    "subtitle": "By a majority of votes, the government today approved to call the campaign a permanent official name, instead of \"Iron Swords\". Minister Orit Strook opposed and Minister Amichai Chikli abstained. Netanyahu argued: \"This is the war of resurrection of our people, as a direct continuation of the War of Independence\". Kara'i: \"The word 'revival' - in Gematria like Bibi Netanyahu\"",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Yehuda Shlezinger",
+                            "url": "https://news.walla.co.il/writer/2402",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/9/4/4/3944552-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_54/3/6/4/5/3645740-46",
+                            "title": "Prime Minister Benjamin Netanyahu at a government meeting, the Kirya, Tel Aviv. December 31, 2023",
+                            "credit": "Flash 90"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 930,
+                    "link": "https://news.walla.co.il/item/3788044"
+                },
+                {
+                    "id": "3788037",
+                    "date": 1760865934,
+                    "title": "Smotrich tweeted: \"War!\"; Families of the kidnapped casualties: \"Irresponsible\"",
+                    "subtitle": "While the battles are renewed in the south of the Strip and the IDF attacks in Rafah, the families of the kidnapped casualties respond in anger to the collapse of the agreement. According to them, Israel is abandoning those who remained in Gaza and dragging the country back to fighting before the return of all the kidnapped was completed",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Uri Sela",
+                            "url": "https://news.walla.co.il/writer/2147",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/3/2/3832593-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/6/4/0/3640882-46",
+                            "title": "Yael Adar, mother of Tamir Hadar, after the meeting with the Prime Minister in the Kirya. 19.12.2023",
+                            "credit": "Uri Sela"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 81,
+                    "link": "https://news.walla.co.il/item/3788037"
+                },
+                {
+                    "id": "3788027",
+                    "date": 1760865499,
+                    "title": "Following the incident in Gaza: Netanyahu left the government meeting for a security discussion",
+                    "subtitle": "Against the background of anti-tank missile fire towards an IDF force in the Rafah area in the south of the Strip, the National Security Minister said: \"False delusions that Hamas will abide by the agreement it signed, prove as expected to be dangerous to our security\". According to him, \"The Nazi terror organization must be destroyed completely - and better one hour earlier\"",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Avi Solomon",
+                            "url": "https://news.walla.co.il/writer/2398",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/9/3/9/3939747-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/8/6/8/3868970-46",
+                            "title": "Prime Minister Benjamin Netanyahu with Itamar Ben Gvir the Minister of National Security after approving the return of Otzma Yehudit ministers to the government, March 19, 2025",
+                            "credit": "Flash 90"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 16,
+                    "link": "https://news.walla.co.il/item/3788027"
+                },
+                {
+                    "id": "3788036",
+                    "date": 1760866437,
+                    "title": "The body of the kidnapped casualty Sontaya Oukarsri that was returned to Israel was identified",
+                    "subtitle": "",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Yehuda Shlezinger",
+                            "url": "https://news.walla.co.il/writer/2402",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/9/4/4/3944552-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963208-46",
+                            "title": "Sontaya Akrasi",
+                            "credit": "Documentation on social networks according to section 27a of the Copyright Law"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 14,
+                    "link": "https://news.walla.co.il/item/3788036"
+                }
+            ]
+        },
+        {
+            "type": 7,
+            "_id": "677cf4fd353796a18e27f63c",
+            "items": [
+                {
+                    "id": "8a1d3056-3911-4a2e-9f6b-3ceb3e952663",
+                    "adUnitSizes": [
+                        {
+                            "width": "320",
+                            "height": "50",
+                            "_id": "677d2268353796a18e2c34e4"
+                        },
+                        {
+                            "width": "320",
+                            "height": "100",
+                            "_id": "677d2268353796a18e2c34e5"
+                        },
+                        {
+                            "width": "320",
+                            "height": "170",
+                            "_id": "677d2268353796a18e2c34e6"
+                        }
+                    ],
+                    "adUnitName": "/43010785/wallanews/main/vertical_strip_mobile_app_news",
+                    "isFluid": true,
+                    "adType": "google"
+                }
+            ]
+        },
+        {
+            "_id": "673f16f750df77895eb7acaf",
+            "type": 2,
+            "foregroundColor": "#E94D8C",
+            "sectionBackgroundColor": "#061A9A",
+            "sectionFontColor": "light",
+            "mainTitle": "Sports",
+            "actionClickType": "vertical",
+            "clickId": "10001",
+            "verticalName": "Sports",
+            "verticalDomain": "sports.walla.co.il",
+            "items": [
+                {
+                    "id": "3788059",
+                    "date": 1760869800,
+                    "title": "The move that will cause Maccabi Tel Aviv to give a resounding knockout to Ofer Yanai",
+                    "subtitle": "The possible joining of American billionaires to the yellows may not only change the balance of power against Ofer Yanai, but also position them as candidates to join the NBA Europe league. What needs to happen for this dream to come true?",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Uriel Daskal",
+                            "url": "https://sports.walla.co.il/writer/2349",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/7/9/2/3792384-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_54/3/9/5/8/3958915-46",
+                            "title": "Ofer Yanai, Shimon Mizrahi, owners of Hapoel and Maccabi Tel Aviv",
+                            "credit": "Udi Tsitayat"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 23,
+                    "link": "https://sports.walla.co.il/item/3788059"
+                },
+                {
+                    "id": "3787990",
+                    "date": 1760857980,
+                    "title": "The Americans who want to buy Maccabi Haifa are stepping up",
+                    "subtitle": "Adam Fried arrived in Israel and met with Yaakov Shahar in order to accelerate the negotiations to purchase 50 percent of the club. Also attended the game against Maccabi Netanya",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Shlomo Weiss",
+                            "url": "https://sports.walla.co.il/writer/12",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/1/6/7/6/1676019-46"
+                        },
+                        {
+                            "name": "Raanan Bernovsky",
+                            "url": "https://sports.walla.co.il/writer/44",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/5/7/3857729-46"
+                        },
+                        {
+                            "name": "Ofir Sa'ar",
+                            "url": "https://sports.walla.co.il/writer/11",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/1/8/1/5/1815787-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/8/9/6/3896970-46",
+                            "title": "Adam Fried American businessman, candidate to buy Maccabi Haifa, with his wife Daniela Braga",
+                            "credit": "GettyImages"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 29,
+                    "exclusive": "league24",
+                    "link": "https://sports.walla.co.il/item/3787990"
+                },
+                {
+                    "id": "3788101",
+                    "date": 1760877120,
+                    "title": "The big test of Stav Turiel: Will he leave a mark in the derby?",
+                    "subtitle": "After a not good debut in the national team, the winger who likes to take responsibility, will have to carry the cart in the derby. If he succeeds, he really levels up",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Ofir Sa'ar",
+                            "url": "https://sports.walla.co.il/writer/11",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/1/8/1/5/1815787-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/4/0/3940220-46",
+                            "title": "Hapoel Tel Aviv player Stav Turiel",
+                            "credit": "Danny Maron"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 0,
+                    "exclusive": "league24",
+                    "link": "https://sports.walla.co.il/item/3788101"
+                },
+                {
+                    "id": "3ea8d6bc-6c57-4949-9622-f1c7c5e85589",
+                    "title": "From the signs of the end of the war: The armored train was evacuated from the Sderot bridge, improvement in frequency from the morning",
+                    "subtitle": "",
+                    "externalItem": true,
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963214-46",
+                            "title": "Kiley Hodgkinson",
+                            "credit": "Screenshot"
+                        }
+                    ],
+                    "link": "https://sport1.maariv.co.il/square/article/1662193/",
+                    "marketingContent": false
+                }
+            ]
+        },
+        {
+            "type": 12,
+            "_id": "67614a74a248b29160aaf599",
+            "items": [
+                {
+                    "id": "ee3d43b3-0d4d-4f8b-9325-10199029d30a",
+                    "dataSourceType": "storiesRectangle",
+                    "widgetIdentifier": "homepagetop",
+                    "height": 160,
+                    "label": "homepagetop"
+                }
+            ]
+        },
+        {
+            "type": 7,
+            "_id": "6799e54b89c01f3649837a4d",
+            "items": [
+                {
+                    "id": "6a830aaa-c3f3-4dac-9721-2cbd68054ff8",
+                    "adUnitSizes": [
+                        {
+                            "width": "320",
+                            "height": "50",
+                            "_id": "6799e54b89c01f3649837a4e"
+                        },
+                        {
+                            "width": "320",
+                            "height": "100",
+                            "_id": "6799e54b89c01f3649837a4f"
+                        },
+                        {
+                            "width": "320",
+                            "height": "170",
+                            "_id": "6799e54b89c01f3649837a50"
+                        }
+                    ],
+                    "adUnitName": "/43010785/wallanews/main/vertical_strip_mobile_app_sport",
+                    "isFluid": true,
+                    "adType": "google"
+                }
+            ]
+        },
+        {
+            "_id": "673f16f750df77895eb7acb2",
+            "type": 2,
+            "foregroundColor": "#6655FF",
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "mainTitle": "Don't Miss",
+            "actionClickType": "vertical",
+            "clickId": "10029",
+            "verticalName": "Don't Miss",
+            "items": [
+                {
+                    "id": "3787453",
+                    "date": 1760821440,
+                    "title": "The mistake everyone makes in Venice: Relied on Google Maps and fell into the water",
+                    "subtitle": "The video of the Polish tourist Wiktoria Guzenda went viral and divided the network: Is she to blame for falling, or is this further proof that it's simply forbidden to use Google Maps in Venice? It turns out that the app is indeed notorious in the city of canals",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Don't Miss",
+                            "url": "https://news.walla.co.il/category/5108",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/8/2/0/3820010-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_54/3/9/6/2/3962259-46",
+                            "title": "The tourist who fell into the water in Venice",
+                            "credit": "Screenshot"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 24,
+                    "link": "https://travel.walla.co.il/item/3787453"
+                },
+                {
+                    "id": "3787221",
+                    "date": 1760821680,
+                    "title": "You decide: Is it okay to come with such a dress to a wedding?",
+                    "subtitle": "Noel just wanted to share a cute video with her partner on the way to the wedding, but her tight maxi dress with the deep cleavage sparked a heated debate. On the one hand they claimed she is \"desperate for attention\", and on the other hand defended: \"Why should they make her feel bad about having big breasts?\"",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Don't Miss",
+                            "url": "https://news.walla.co.il/category/5108",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/8/2/0/3820010-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/1/3961808-46",
+                            "title": "Noel and the dress with the cleavage",
+                            "credit": "Screenshot"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 60,
+                    "link": "https://fashion.walla.co.il/item/3787221"
+                },
+                {
+                    "id": "3787962",
+                    "date": 1760852700,
+                    "title": "Didn't fake his death: The true story behind the \"funeral\" of the living man",
+                    "subtitle": "Reports around the world told about a 74-year-old Indian who faked his death to see who would come to the funeral. But the truth, as revealed now, is much more moving: He held a symbolic ceremony to inaugurate a crematorium he built with his money for his village",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Don't Miss",
+                            "url": "https://news.walla.co.il/category/5108",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/8/2/0/3820010-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963054-46",
+                            "title": "The living person who organized his own funeral",
+                            "credit": "Documentation on social networks according to section 27a of the Copyright Law"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 1,
+                    "link": "https://news.walla.co.il/item/3787962"
+                },
+                {
+                    "id": "3787157",
+                    "date": 1760821260,
+                    "title": "End of the world prophecy about \"the white brother\" with the red hat and the connection to Trump",
+                    "subtitle": "An ancient prophecy of the Hopi tribe, presented at the UN in 1992, predicted the coming of a savior with a \"red hat\" who will change the world. Now, a popular podcast claims that the figure is Donald Trump, and his two aides are Elon Musk and J.D. Vance. Are we at the threshold of \"the great upheaval\"?",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Don't Miss",
+                            "url": "https://news.walla.co.il/category/5108",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/8/2/0/3820010-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/1/9/3919038-46",
+                            "title": "US President Donald Trump",
+                            "credit": "Reuters"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 70,
+                    "link": "https://news.walla.co.il/item/3787157"
+                }
+            ]
+        },
+        {
+            "type": 7,
+            "_id": "679b9477e3d8d2aa6534f01a",
+            "items": [
+                {
+                    "id": "0af490c3-39f3-402a-9f8d-6c7463eb1cf7",
+                    "adUnitSizes": [
+                        {
+                            "width": "320",
+                            "height": "50",
+                            "_id": "679b9477e3d8d2aa6534f01b"
+                        },
+                        {
+                            "width": "320",
+                            "height": "100",
+                            "_id": "679b9477e3d8d2aa6534f01c"
+                        },
+                        {
+                            "width": "320",
+                            "height": "170",
+                            "_id": "679b9477e3d8d2aa6534f01d"
+                        }
+                    ],
+                    "adUnitName": "/43010785/wallanews/main/vertical_strip_mobile_app_donotmiss",
+                    "isFluid": true,
+                    "adType": "google"
+                }
+            ]
+        },
+        {
+            "_id": "673f16f750df77895eb7acb1",
+            "type": 2,
+            "foregroundColor": "#9647FF",
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "mainTitle": "Culture",
+            "actionClickType": "vertical",
+            "clickId": "10003",
+            "verticalName": "Culture",
+            "verticalDomain": "e.walla.co.il",
+            "items": [
+                {
+                    "id": "3787960",
+                    "date": 1760854885,
+                    "title": "It's inconceivable that Netanyahu was not confronted on Channel 14 with his crazy statement",
+                    "subtitle": "In \"Meet the Press\" they still haven't understood that every time they give the stage to Ben Gvir, the stain sticks to them too. On Channel 14 they failed to prevent Netanyahu from stumbling, but above the two politicians stood a heroic woman who conquered not only tens of thousands in the square, but also the hearts of viewers at home",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Nir Kipnis",
+                            "url": "https://finance.walla.co.il/writer/2064",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/4/1/3841656-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963056-46",
+                            "title": "Netanyahu in an interview with Yinon Magal on Channel 14",
+                            "credit": "Screenshot"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 1752,
+                    "preTitle": "What did we expect?",
+                    "link": "https://e.walla.co.il/item/3787960"
+                },
+                {
+                    "id": "3787802",
+                    "date": 1760821200,
+                    "title": "This excellent series looks like a remnant from Netflix's golden age",
+                    "subtitle": "The third season of \"The Diplomat\" brings its combination of ingredients to a peak: Relationships, marital and diplomatic, are built gradually and with careful planning, and prove that even if we thought we knew the characters and how they operate, there is much more to them. The combination of wonderful acting and sharp writing creates simply excellent television",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Ilan Kaprov",
+                            "url": "https://e.walla.co.il/writer/325",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/2/0/7/5/2075996-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0.11833333333333333,y_0.08786610878661087,w_0.8355555555555554,c_crop,f_auto/t_54/3/9/6/2/3962680-46",
+                            "title": "Keri Russell, \"The Diplomat\" season 3",
+                            "credit": ""
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 10,
+                    "link": "https://e.walla.co.il/item/3787802"
+                },
+                {
+                    "id": "3787975",
+                    "date": 1760861328,
+                    "title": "Coco, who's there? The star doesn't rest from the gimmicks on the red carpet",
+                    "subtitle": "The Academy Museum of Motion Pictures Gala in LA returned for the fifth round and this is an excellent opportunity for the biggest names to bomb on the covered carpet full of photographers. Kim Kardashian chose to tire us a bit more with a Margiela face mask, and Kaia Gerber and Nicole Richie conquered in white | All the looks",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Tanya Garcia",
+                            "url": "https://fashion.walla.co.il/writer/2094",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/3/7/3837931-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963095-46",
+                            "title": "Kim Kardashian at the Academy Museum Gala in Los Angeles. October 2025",
+                            "credit": "GettyImages"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 7,
+                    "link": "https://fashion.walla.co.il/item/3787975"
+                },
+                {
+                    "id": "3788088",
+                    "date": 1760875473,
+                    "title": "Hola Chiquita: Sean Levy thrills in a red strapless in the streets of Madrid",
+                    "subtitle": "Right the emoji of the flamenco dancer in red? So like this, only on Sean Levy who plays Spanish vibe, but in Israeli design - during a outing she made sure to document in the streets of the Spanish capital. From the dress, to the handbag and to the choice of golden jewelry and distance glasses - we loved everything here",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Walla Fashion System",
+                            "url": "https://fashion.walla.co.il/",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/7/0/4/3704897-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963317-46",
+                            "title": "Model Sean Levy in a red dress by Vivi Blaish in Madrid. October 2025",
+                            "credit": "Screenshot"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 0,
+                    "link": "https://fashion.walla.co.il/item/3788088"
+                }
+            ]
+        },
+        {
+            "_id": "6756dca9eef3ca28a7abd9a7",
+            "type": 2,
+            "foregroundColor": "#108958",
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "mainTitle": "Cars",
+            "actionClickType": "vertical",
+            "clickId": "10008",
+            "verticalName": "Cars",
+            "verticalDomain": "cars.walla.co.il",
+            "items": [
+                {
+                    "id": "3788047",
+                    "date": 1760868042,
+                    "title": "The class actions that expose defects in electrified Audi and Mercedes models",
+                    "subtitle": "Audi invited Q5 owners alongside A6 and A7 plug-in for a battery recall, and until the repair was performed charged them to drive on gasoline. In Mercedes, coolant penetrates electric engines, and the replacement costs tens of thousands of shekels",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Udi Etzion",
+                            "url": "https://cars.walla.co.il/writer/2206",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/4/1/3841662-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_54/3/3/3/6/3336177-46",
+                            "title": "Road test: Audi Q5 plug-in",
+                            "credit": ""
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 6,
+                    "preTitle": "Not what you thought",
+                    "link": "https://cars.walla.co.il/item/3788047"
+                },
+                {
+                    "id": "3787947",
+                    "date": 1760849702,
+                    "title": "Tel Aviv Municipality returned to giving tickets for parking at bus stops on weekends",
+                    "subtitle": "In 2010 the Knesset approved parking on weekends and holidays at bus stops. Despite this, enforcement was renewed in Tel Aviv against drivers parking at stops. Tel Aviv Municipality: \"The city operates a pleasant service on weekends, parking is not permitted at every stop\"",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Udi Etzion",
+                            "url": "https://cars.walla.co.il/writer/2206",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/4/1/3841662-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/5/4/3/3543609-46",
+                            "title": "Parking ticket",
+                            "credit": "Reuven Castro"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 85,
+                    "preTitle": "Pay attention",
+                    "link": "https://cars.walla.co.il/item/3787947"
+                },
+                {
+                    "id": "3787948",
+                    "date": 1760849773,
+                    "title": "From the signs of the end of the war: The armored train was evacuated from the Sderot bridge, improvement in frequency from the morning",
+                    "subtitle": "Cargo cars that hid the trains from Hamas eyes were moved, and during peak hours two trains per hour will operate. This week: Disruptions on the line to Jerusalem due to infrastructure works",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Walla Cars",
+                            "url": "https://cars.walla.co.il/",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/8/2/0/3820021-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/8/4/3/3843175-46",
+                            "title": "For the first time since the outbreak of the war - the train station in Sderot returned to operation",
+                            "credit": "Avi Rokach"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 1,
+                    "preTitle": "Return to routine",
+                    "link": "https://cars.walla.co.il/item/3787948"
+                },
+                {
+                    "id": "3787584",
+                    "date": 1760652195,
+                    "title": "Not only for students: Ten recommended used cars for less than 20 thousand shekels",
+                    "subtitle": "2025 edition of our guide to particularly cheap second-hand cars, with emphasis on small and economical. For students and anyone looking for a cheap, reliable and relatively safe car not necessarily Japanese",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Udi Etzion",
+                            "url": "https://cars.walla.co.il/writer/2206",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/4/1/3841662-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/2/3/8/7/2387874-46",
+                            "title": "Comparative test - Mini cars: Chevrolet Spark, Renault Twingo, Kia Picanto, Hyundai i10",
+                            "credit": "Walla system"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 51,
+                    "preTitle": "Walla guide",
+                    "link": "https://cars.walla.co.il/item/3787584"
+                }
+            ]
+        },
+        {
+            "type": 7,
+            "_id": "67616af1a248b29160adc2ed",
+            "items": [
+                {
+                    "id": "9bdfb2b0-a5ff-45c5-ac01-09a377466f89",
+                    "taboolaPlacement": "Mid Homepage 2",
+                    "taboolaMode": "thumbnails-c",
+                    "isEndless": false,
+                    "adType": "taboola"
+                }
+            ],
+            "sectionFontColor": "dark",
+            "foregroundColor": "#1978BB",
+            "mainTitle": "Maybe it will interest you"
+        },
+        {
+            "_id": "673f16f750df77895eb7acbe",
+            "type": 2,
+            "foregroundColor": "#F41987",
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "mainTitle": "Fashion",
+            "actionClickType": "vertical",
+            "clickId": "10014",
+            "verticalName": "Fashion",
+            "verticalDomain": "fashion.walla.co.il",
+            "items": [
+                {
+                    "id": "3788050",
+                    "date": 1760868827,
+                    "title": "With all due respect to Omer Adam, we haven't seen his mother like this yet",
+                    "subtitle": "While Omer Adam is doing final rehearsals ahead of his performance at Madison Square Garden, Mama Sharon is taking advantage of her days in the Big Apple. She moves between chic headscarves, to evening dresses in Israeli design - the central one and actually the one that caused us to talk about her at all, in a deep and tempting brown-chocolate shade",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Walla Fashion System",
+                            "url": "https://fashion.walla.co.il/",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/7/0/4/3704897-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_54/3/9/6/3/3963229-46",
+                            "title": "Sharon Adam in New York",
+                            "credit": "Screenshot"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 19,
+                    "link": "https://fashion.walla.co.il/item/3788050"
+                },
+                {
+                    "id": "3788069",
+                    "date": 1760873385,
+                    "title": "Who thought Yael Shelbia and Anna Zak are Altzachen girls?",
+                    "subtitle": "In one capsule collection stroke, refreshing and good, that Uriya Azran concocted for Renoir - she managed to translate her childhood experiences into a collection of clothes and outfits that provide an answer to a complete fall-winter wardrobe. Also for those who are not necessarily aware and/or connected to the subject of her inspirations, i.e.; the Altzachen vehicle that served her late father",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Tali Arbel",
+                            "url": "https://fashion.walla.co.il/writer/2165",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/9/5/3/3953341-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963270-46",
+                            "title": "Yael Shelbia and Anna Zak at the launch of Uriya Azran and Renoir capsule collection",
+                            "credit": ""
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 1,
+                    "link": "https://fashion.walla.co.il/item/3788069"
+                },
+                {
+                    "id": "3787975",
+                    "date": 1760861328,
+                    "title": "Coco, who's there? The star doesn't rest from the gimmicks on the red carpet",
+                    "subtitle": "The Academy Museum of Motion Pictures Gala in LA returned for the fifth round and this is an excellent opportunity for the biggest names to bomb on the covered carpet full of photographers. Kim Kardashian chose to tire us a bit more with a Margiela face mask, and Kaia Gerber and Nicole Richie conquered in white | All the looks",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Tanya Garcia",
+                            "url": "https://fashion.walla.co.il/writer/2094",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/3/7/3837931-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963095-46",
+                            "title": "Kim Kardashian at the Academy Museum Gala in Los Angeles. October 2025",
+                            "credit": "GettyImages"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 7,
+                    "link": "https://fashion.walla.co.il/item/3787975"
+                },
+                {
+                    "id": "3788088",
+                    "date": 1760875473,
+                    "title": "Hola Chiquita: Sean Levy thrills in a red strapless in the streets of Madrid",
+                    "subtitle": "Right the emoji of the flamenco dancer in red? So like this, only on Sean Levy who plays Spanish vibe, but in Israeli design - during a outing she made sure to document in the streets of the Spanish capital. From the dress, to the handbag and to the choice of golden jewelry and distance glasses - we loved everything here",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Walla Fashion System",
+                            "url": "https://fashion.walla.co.il/",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/7/0/4/3704897-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963317-46",
+                            "title": "Model Sean Levy in a red dress by Vivi Blaish in Madrid. October 2025",
+                            "credit": "Screenshot"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 0,
+                    "link": "https://fashion.walla.co.il/item/3788088"
+                }
+            ]
+        },
+        {
+            "_id": "6756e231eef3ca28a7acb135",
+            "type": 2,
+            "foregroundColor": "#FA6400",
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "mainTitle": "Local",
+            "actionClickType": "vertical",
+            "clickId": "10025",
+            "verticalName": "Local",
+            "verticalDomain": "mekomi.walla.co.il",
+            "items": [
+                {
+                    "id": "3787998",
+                    "date": 1760859999,
+                    "title": "“Heroism and Hope” in Holon: An evening of remembrance, unity and hope for the future",
+                    "subtitle": "The municipal memorial rally \"Heroism and Hope\", in memory of the murdered and fallen of the October 7 massacre and the Iron Swords War",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Walla Local",
+                            "url": "",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/8/2/0/3820018-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_54/3/9/6/3/3963119-46",
+                            "title": "Memorial rally, unity and hope for the future",
+                            "credit": "Official website"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 3,
+                    "link": "https://mekomi.walla.co.il/item/3787998"
+                },
+                {
+                    "id": "3788002",
+                    "date": 1760860621,
+                    "title": "Hundreds of professionals needed for mental rehabilitation",
+                    "subtitle": "Ofer Cohen, CEO of the Shekulo Tov Group: \"The demand for our services in the last two years is growing, and we are trying to stand in the face of the demand and expand in order to provide a service envelope tailored to each and every one\"",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Walla Local",
+                            "url": "",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/8/2/0/3820018-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/5/9/2/3592958-46",
+                            "title": "Ofer Cohen, CEO of \"Shekulo Tov\" Group",
+                            "credit": ""
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 0,
+                    "link": "https://mekomi.walla.co.il/item/3788002"
+                },
+                {
+                    "id": "3788067",
+                    "date": 1760870924,
+                    "title": "For the first time: Conference on integrity in Kiryat Gat",
+                    "subtitle": "Promoting integrity in Kiryat Gat: With the participation of a retired district judge, a district attorney and former senior police officers - the Kiryat Gat Municipality under the leadership of Mayor Kfir Swisa held a special conference on integrity for the heads of departments and divisions",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Walla Local",
+                            "url": "",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/8/2/0/3820018-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963258-46",
+                            "title": "Conference on integrity in Kiryat Gat",
+                            "credit": "Official website"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 1,
+                    "link": "https://mekomi.walla.co.il/item/3788067"
+                },
+                {
+                    "id": "3787430",
+                    "date": 1760601492,
+                    "title": "Nimrod Cohen the kidnapped soldier returns today to his home in Rehovot",
+                    "subtitle": "Mayor Matan Dil: \"Our Nimrod is coming home! All of Rehovot holds its breath in the face of the return of the fighter, the son, the brother, everyone's hero. After 738 days of captivity, I invite the public to accompany his return with Israeli flags\"",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Walla Local",
+                            "url": "",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/8/2/0/3820018-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/2/3962217-46",
+                            "title": "\"Nimrod, how good that you came home\"",
+                            "credit": "Courtesy of the family"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 55,
+                    "link": "https://mekomi.walla.co.il/item/3787430"
+                }
+            ]
+        },
+        {
+            "_id": "6756e17deef3ca28a7ac9c63",
+            "type": 2,
+            "foregroundColor": "#199F6A",
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "mainTitle": "Branja",
+            "actionClickType": "vertical",
+            "clickId": "10024",
+            "verticalName": "Branja",
+            "verticalDomain": "b.walla.co.il",
+            "items": [
+                {
+                    "id": "3788024",
+                    "date": 1760864677,
+                    "title": "Netanyahu sacrifices the kidnapped even after they returned, and i24 collaborated with him",
+                    "subtitle": "Less than a week ago, Matty Tuchfeld published that Benjamin Netanyahu is planning a \"sharp attack on the kidnapped headquarters\". Over the weekend, channel i24 already delivered the goods. Opinion",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Uriel Daskal",
+                            "url": "https://sports.walla.co.il/writer/2349",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/7/9/2/3792384-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_54/3/9/6/3/3963193-46",
+                            "title": "Family of Omri Miran",
+                            "credit": "Screenshot"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 5,
+                    "link": "https://b.walla.co.il/item/3788024"
+                },
+                {
+                    "id": "3787967",
+                    "date": 1760854995,
+                    "title": "The main thing is the base: Netanyahu hosted again on Channel 14, the viewers didn't flock again",
+                    "subtitle": "The Prime Minister, who does not interview on the main channels, hosted on the program \"The Patriots\" for the first time since the ceasefire, but the figure the program received is only slightly higher than the one it received last week. Opposite, Master Chef got almost double the figure",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Walla Branja"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963053-46",
+                            "title": "Netanyahu on the Patriots program",
+                            "credit": "Screenshot"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 77,
+                    "link": "https://b.walla.co.il/item/3787967"
+                },
+                {
+                    "id": "3787983",
+                    "date": 1760859470,
+                    "title": "Billboard in Times Square: Executions by Hamas exposed",
+                    "subtitle": "The consulate said that this is an initiative designed to expose to the international public the \"true face of Hamas\", and to show the severe violence that the organization uses also against the Gazan population itself",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Walla Branja"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963097-46",
+                            "title": "A huge billboard in Times Square in New York displayed a video documenting executions of Gaza residents by the Hamas terror",
+                            "credit": "Documentation on social networks according to section 27a of the Copyright Law"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 1,
+                    "link": "https://b.walla.co.il/item/3787983"
+                },
+                {
+                    "id": "3787914",
+                    "date": 1760818755,
+                    "title": "British supervisory authority: The BBC documentary on Gaza - serious violation",
+                    "subtitle": "The BBC network will be punished by the communications regulator \"Ofcom\" following a misleading investigation on the war in Gaza",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Walla Branja"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/3/2/3932050-46",
+                            "title": "BBC building in London",
+                            "credit": "GettyImages"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 165,
+                    "link": "https://b.walla.co.il/item/3787914"
+                }
+            ]
+        },
+        {
+            "_id": "6756e5bfeef3ca28a7ad02d8",
+            "type": 2,
+            "foregroundColor": "#FF5757",
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "mainTitle": "Seven South",
+            "actionClickType": "vertical",
+            "clickId": "10017",
+            "verticalName": "Seven South",
+            "verticalDomain": "sheva7.walla.co.il",
+            "items": [
+                {
+                    "id": "3788054",
+                    "date": 1760872618,
+                    "title": "Sister of Amit Man z\"l against changing the name of the war: \"History distorted\"",
+                    "subtitle": "Habiba Man referred to the approval of Netanyahu's proposal to call the war that broke out on October 7 \"War of Revival\". \"I am exhausted and disappointed, burning with anger and feeling that they don't count us\"",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Eran Avigal",
+                            "url": "https://sheva7.walla.co.il/writer/2312",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/5/7/3857735-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_54/3/6/1/1/3611872-46",
+                            "title": "Amit Man who was killed in Bari",
+                            "credit": "Documentation on social networks according to section 27a of the Copyright Law"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 1,
+                    "exclusive": "sheva7",
+                    "link": "https://sheva7.walla.co.il/item/3788054"
+                },
+                {
+                    "id": "3787977",
+                    "date": 1760861369,
+                    "title": "MKs confronted residents in Bir Hadaj: \"They almost lynched us\"",
+                    "subtitle": "MKs Cohen and Sukot arrived at the village following the publication of a store selling \"drones and dropping accessories\". Bir Hadaj resident: \"They smell elections and came to incite\"",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Eran Avigal",
+                            "url": "https://sheva7.walla.co.il/writer/2312",
+                            "imageUrl": "https://images.wcdn.co.il/f_auto,q_auto,w_200,t_53/3/8/5/7/3857735-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963088-46",
+                            "title": "MK Almog Cohen and MK Zvi Sukot in Bir Hadaj",
+                            "credit": ""
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 4,
+                    "exclusive": "sheva7",
+                    "link": "https://sheva7.walla.co.il/item/3787977"
+                },
+                {
+                    "id": "3788020",
+                    "date": 1760864349,
+                    "title": "Blood revenge in the Negev: Man shot to death, three arrested on suspicion of involvement",
+                    "subtitle": "The man, 30, was critically injured from the shooting and his death was determined at Soroka. Shortly after the shooting, police forces raided compounds identified with the feuding families",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Seven South",
+                            "url": ""
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963183-46",
+                            "title": "Arrest of suspects in the south",
+                            "credit": "Israel Police Spokesperson"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 1,
+                    "exclusive": "sheva7",
+                    "link": "https://sheva7.walla.co.il/item/3788020"
+                },
+                {
+                    "id": "3788035",
+                    "date": 1760865403,
+                    "title": "Paramedic who came to treat a shooting casualty in Rahat was hit by a thrown stone",
+                    "subtitle": "The man, 40, was on his way to treat a casualty from a shooting incident in the city, when a stone was thrown towards the vehicle he was traveling in and broke his hand. MDA CEO: \"Serious incident, we trust the police to arrest the attackers quickly\"",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Seven South",
+                            "url": ""
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/3/3963196-46",
+                            "title": "Ambulance stoned in Rahat",
+                            "credit": "MDA"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 0,
+                    "exclusive": "sheva7",
+                    "link": "https://sheva7.walla.co.il/item/3788035"
+                }
+            ]
+        },
+        {
+            "_id": "6756e8daeef3ca28a7ad47b1",
+            "type": 2,
+            "foregroundColor": "#FF8D8D",
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "mainTitle": "Walla wedding",
+            "actionClickType": "none",
+            "items": [
+                {
+                    "id": "5ffca47b-1306-4a0e-a710-a9c3365e8f73",
+                    "title": "Berta presents the 2026 collection at New York Bridal Fashion Week",
+                    "subtitle": "",
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_54/3/9/6/3/3963299-46",
+                            "title": "Berta",
+                            "credit": "Walla! Mazal Tov"
+                        }
+                    ],
+                    "link": "https://mazaltov.walla.co.il/article/brides-week/13419/#utm_source=walla_news&utm_campaign=merkaz",
+                    "marketingContent": false
+                },
+                {
+                    "id": "b4e58017-c239-4ec4-840e-f1f05a3d70ca",
+                    "title": "For the first time in Israel: Inbal Dror's brides outlet",
+                    "subtitle": "",
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/3/5/3935556-46",
+                            "title": "Inbal Dror",
+                            "credit": "Walla! Mazal Tov"
+                        }
+                    ],
+                    "link": "https://mazaltov.walla.co.il/article/wedding-sale/13356/?utm_source=walla_news&utm_campaign=merkaz",
+                    "marketingContent": false
+                },
+                {
+                    "id": "1e885765-c56c-461f-a506-81e66b834626",
+                    "title": "Behind the scenes of Dimitrios Dalia's new bridal collection",
+                    "subtitle": "",
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/5/6/3956296-46",
+                            "title": "Dimitrios",
+                            "credit": "Walla! Mazal Tov"
+                        }
+                    ],
+                    "link": "https://mazaltov.walla.co.il/article/catalog-2026/13406/?fbclid=IwAR2x5jOxJEXJfRXFn4w4jW_l9vT2jKLXt86sI-r3F9WaZVOGBTmAhL3QdZA#utm_source=walla_news&utm_campaign=merkaz",
+                    "marketingContent": false
+                }
+            ]
+        },
+        {
+            "_id": "6756e915eef3ca28a7ad4d35",
+            "type": 2,
+            "foregroundColor": "#FF78D2",
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "mainTitle": "Spirit and Horoscope",
+            "actionClickType": "vertical",
+            "clickId": "10013",
+            "verticalName": "Horoscope",
+            "items": [
+                {
+                    "id": "3783045",
+                    "date": 1758775979,
+                    "title": "Weekly horoscope: September 21 to 27",
+                    "subtitle": "A confrontation angle creates tension between the desire for clarity and truth versus illusions and lack of clarity. There are intense tensions in the area of personal and collective power, and it is recommended to avoid fights, invest in physical training to release tensions and be especially careful in travels and dangerous activities",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Yair Tribelsky",
+                            "url": "https://tribelsky.com/",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/1/7/7/0/1770077-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_54/3/9/0/5/3905468-46",
+                            "title": "Weekly horoscope",
+                            "credit": ""
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 5,
+                    "link": "https://horoscope.walla.co.il/item/3783045"
+                },
+                {
+                    "id": "3777302",
+                    "date": 1756933560,
+                    "title": "Locked in the freezer, almost died, and now receiving messages from dead people",
+                    "subtitle": "Medium reveals how she received her \"power\" to communicate with people who passed away and how she uses this ability for her work. And also: The full story of how she almost died at age four",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "Don't Miss",
+                            "url": "https://news.walla.co.il/category/5108",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/8/2/0/3820010-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/3/3/3933286-46",
+                            "title": "Susan Grau",
+                            "credit": "Screenshot"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 7,
+                    "link": "https://horoscope.walla.co.il/item/3777302"
+                },
+                {
+                    "id": "3775369",
+                    "date": 1756156260,
+                    "title": "The medium who was wrong in every prophecy: The story of \"the worst prophet in the world\"",
+                    "subtitle": "She sold predictions for $750 per half hour, filled cruise ships and became a TV star. But Sylvia Brown's prophecies crashed time after time - from a girl sent \"to slavery in Japan\" after being murdered to a daughter found alive after determining she was dead",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "Don't Miss",
+                            "url": "https://news.walla.co.il/category/5108",
+                            "imageUrl": "https://img.wcdn.co.il/w_200/3/8/2/0/3820010-46"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/4/0/3940582-46",
+                            "title": "The medium Sylvia Brown",
+                            "credit": "Documentation on social networks according to section 27a of the Copyright Law"
+                        }
+                    ],
+                    "marketingContent": false,
+                    "totalComments": 26,
+                    "link": "https://horoscope.walla.co.il/item/3775369"
+                }
+            ]
+        },
+        {
+            "id": "68a6cdaf349a3e22f8f9771c",
+            "type": 10,
+            "marketingBanner": {
+                "actionClickType": "webView",
+                "url": "https://special.walla.co.il/40UpNorth/",
+                "height": 220,
+                "bannerImageUrl": "https://images.wcdn.co.il/3/9/5/0/3950281-46"
+            }
+        },
+        {
+            "_id": "6756e96ceef3ca28a7ad55cc",
+            "type": 2,
+            "foregroundColor": "#FF9000",
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "mainTitle": "A sip of Shekma",
+            "actionClickType": "webView",
+            "url": "https://shikma.walla.co.il/",
+            "items": [
+                {
+                    "id": "3772514",
+                    "title": "Sea of love: \"A sip of Shekma\" project at the pool of Kibbutz Bari",
+                    "subtitle": "The operation to support pubs in the envelope returned to Kibbutz Bari in an evening all love and in a place that symbolizes more than anything the return to sanity",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "In collaboration with Shekma Beer",
+                            "imageUrl": "https://image-resizer-walla.walla.cloud/image/2024/3/2/images/1710071176850_walla-media-picture_96x97.webp"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_54/3/9/4/5/3945370-46",
+                            "title": "A sip of Shekma at Kibbutz Bari pool",
+                            "credit": "Screenshot"
+                        }
+                    ],
+                    "marketingContent": true,
+                    "totalComments": 0,
+                    "exclusive": "3772514",
+                    "link": "https://food.walla.co.il/item/3772514"
+                },
+                {
+                    "id": "3777020",
+                    "title": "A sip of Shekma at the southern bistro bar you must know",
+                    "subtitle": "It may look like a shopping center, but if you don't go up to its second floor, you won't know what you're missing: \"Flora\" in Mabki'im is the best place in the area, that the audience hasn't discovered yet. Exactly for that we brought our project there",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "In collaboration with Shekma Beer",
+                            "imageUrl": "https://image-resizer-walla.walla.cloud/image/2024/3/2/images/1710071176850_walla-media-picture_96x97.webp"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/4/3/3943464-46",
+                            "title": "Flora bistro bar in Mabki'im atmosphere",
+                            "credit": ""
+                        }
+                    ],
+                    "marketingContent": true,
+                    "totalComments": 0,
+                    "exclusive": "3777020",
+                    "link": "https://food.walla.co.il/item/3777020"
+                },
+                {
+                    "id": "3752676",
+                    "title": "The envelope doesn't forget - but also knows how to return to rejoice: Gan Pub returns to life",
+                    "subtitle": "With new stage lighting, a fridge full of beer and pizza trays, the \"A sip of Shekma\" project arrived at the launch party of the performance season in Netiv HaAsara. Between drink to drink, songs and blessings, we learned something important about the special character of the community",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "In collaboration with Shekma Beer",
+                            "imageUrl": "https://image-resizer-walla.walla.cloud/image/2024/3/2/images/1710071176850_walla-media-picture_96x97.webp"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/0/2/3902244-46",
+                            "title": "Shekma Beer, Gan Pub Netiv HaAsara\r\n(Marketing content - do not use)",
+                            "credit": "Screenshot"
+                        }
+                    ],
+                    "marketingContent": true,
+                    "totalComments": 0,
+                    "exclusive": "3752676",
+                    "link": "https://food.walla.co.il/item/3752676"
+                }
+            ]
+        },
+        {
+            "_id": "6756e9f7eef3ca28a7ad64e4",
+            "type": 2,
+            "foregroundColor": "#31438E",
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "mainTitle": "Legal",
+            "actionClickType": "vertical",
+            "clickId": "10026",
+            "verticalName": "Legal",
+            "items": [
+                {
+                    "id": "3785724",
+                    "title": "When millions are at stake: What every business owner must know about arbitration",
+                    "subtitle": "\"In a world where reputation is everything, the ability to resolve a dispute without it reaching the headlines or social media is very significant and is one of the greatest advantages of arbitration over court\". Special interview with Adv. Guy Hershkovitz",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "In collaboration with zap legal",
+                            "imageUrl": "https://image-resizer-walla.walla.cloud/image/2024/3/2/images/1710071176850_walla-media-picture_96x97.webp"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_54/3/1/3/2/3132792-46",
+                            "title": "Angry business owner",
+                            "credit": "ShutterStock"
+                        }
+                    ],
+                    "marketingContent": true,
+                    "totalComments": 0,
+                    "exclusive": "law",
+                    "link": "https://law.walla.co.il/item/3785724"
+                },
+                {
+                    "id": "3787146",
+                    "title": "Watch: The big deal of life - what to check before signing on an apartment",
+                    "subtitle": "Adv. and notary Louisa Aziyev, real estate expert, wills and lasting power of attorney, explains what to check before a sales contract, how to act when defects are discovered, why not suffice with the contractor's lawyer, and what common mistakes cost buyers dearly",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "In collaboration with zap legal",
+                            "imageUrl": "https://image-resizer-walla.walla.cloud/image/2024/3/2/images/1710071176850_walla-media-picture_96x97.webp"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/1/3961681-46",
+                            "title": "Screenshot Louisa Aziyev Walla studio 1",
+                            "credit": "Screenshot"
+                        }
+                    ],
+                    "marketingContent": true,
+                    "totalComments": 0,
+                    "exclusive": "law",
+                    "link": "https://law.walla.co.il/item/3787146"
+                },
+                {
+                    "id": "3787437",
+                    "title": "Watch: Medical negligence is not a story of patient vs doctor - it's a whole system",
+                    "subtitle": "Delay in diagnosis, treatment error or poor communication between doctor and patient - not every medical error is negligence, but when damage is caused it can sometimes be sued. Dr. Daniel Shevach, a veteran lawyer in the field, explains why it's a systemic process, how the doctor's conduct is examined in real time, and what every patient should understand before acting.",
+                    "itemType": "video",
+                    "writers": [
+                        {
+                            "name": "In collaboration with zap legal",
+                            "imageUrl": "https://image-resizer-walla.walla.cloud/image/2024/3/2/images/1710071176850_walla-media-picture_96x97.webp"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/6/2/3962174-46",
+                            "title": "Dr Shevach",
+                            "credit": "Screenshot"
+                        }
+                    ],
+                    "marketingContent": true,
+                    "totalComments": 0,
+                    "exclusive": "law",
+                    "link": "https://law.walla.co.il/item/3787437"
+                }
+            ]
+        },
+        {
+            "_id": "6756ea68eef3ca28a7ad7196",
+            "type": 2,
+            "foregroundColor": "#7DA1FF",
+            "sectionBackgroundColor": "#FFFFFF",
+            "sectionFontColor": "dark",
+            "mainTitle": "Judaism",
+            "actionClickType": "vertical",
+            "clickId": "10022",
+            "verticalName": "Judaism",
+            "verticalDomain": "judaism.walla.co.il",
+            "items": [
+                {
+                    "id": "3787243",
+                    "title": "Watch: Strengthening the yeshiva in Ashdod - Rabbi Pinto in a special lesson",
+                    "subtitle": "The Admor Rabbi Yoshiyahu Pinto returns to the tradition of lessons, with broad participation and growth momentum under the leadership of his son Rabbi Yoel Pinto. The event is open to the public",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "In collaboration with Shuva Israel",
+                            "imageUrl": "https://image-resizer-walla.walla.cloud/image/2024/3/2/images/1710071176850_walla-media-picture_96x97.webp"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_600/x_0,y_0,w_1,c_crop,f_auto/t_54/3/9/6/1/3961862-46",
+                            "title": "Bloom in the activity of \"Shuva Israel\" yeshiva in Ashdod",
+                            "credit": ""
+                        }
+                    ],
+                    "marketingContent": true,
+                    "totalComments": 0,
+                    "link": "https://news.walla.co.il/item/3787243"
+                },
+                {
+                    "id": "3772776",
+                    "title": "The traveler's guide: Is it permitted to hold a prayer minyan on a plane?",
+                    "subtitle": "Head of Kollel \"Shaarei Ezra\" and head of Beit Hora'ah \"Arzei HaLevanon\" emphasizes in his new halachic book that one should avoid disturbing other passengers, even if it is holding a prayer minyan",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "In collaboration with Shuva Israel",
+                            "imageUrl": "https://image-resizer-walla.walla.cloud/image/2024/3/2/images/1710071176850_walla-media-picture_96x97.webp"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/3/6/3936511-46",
+                            "title": "A young ultra-Orthodox Jew putting on tefillin on a plane",
+                            "credit": "ShutterStock"
+                        }
+                    ],
+                    "marketingContent": true,
+                    "totalComments": 0,
+                    "exclusive": "Judaism2020",
+                    "link": "https://judaism.walla.co.il/item/3772776"
+                },
+                {
+                    "id": "3771932",
+                    "title": "The Jewish community in Baku blesses the agreement: “A blow to Iran”",
+                    "subtitle": "The Sephardic community rabbi: The agreement promotes peace, connection and unity, and gives the region strength to stand against Iran's influence. Meanwhile, in Tehran and Moscow express sharp opposition to the historic agreement",
+                    "itemType": "image",
+                    "writers": [
+                        {
+                            "name": "In collaboration with Shuva Israel",
+                            "imageUrl": "https://image-resizer-walla.walla.cloud/image/2024/3/2/images/1710071176850_walla-media-picture_96x97.webp"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://img.wcdn.co.il/w_200/x_0,y_0,w_1,c_crop,f_auto/t_18/3/9/3/0/3930105-46",
+                            "title": "Rabbi Zamir Isayev",
+                            "credit": ""
+                        }
+                    ],
+                    "marketingContent": true,
+                    "totalComments": 0,
+                    "exclusive": "Judaism2020",
+                    "link": "https://judaism.walla.co.il/item/3771932"
+                }
+            ]
+        },
+        {
+            "type": 7,
+            "_id": "673f16f750df77895eb7acd3",
+            "items": [
+                {
+                    "id": "b19051b9-01bd-4b21-a683-fbd319fa6dcb",
+                    "taboolaPlacement": "Homepage Endless",
+                    "taboolaMode": "thumbnails-c",
+                    "isEndless": true,
+                    "adType": "taboola"
+                }
+            ]
+        }
+    ]
+}
