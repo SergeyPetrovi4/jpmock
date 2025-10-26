@@ -83,54 +83,7 @@
       "_id": "67a0c968149a752907d0b127"
     }
   ],
-  "bottomMenu": [
-    {
-      "isActive": true,
-      "title": "Home",
-      "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/2/2/images/1707408935076_walla-media-picture_72x72.webp",
-      "actionClickType": "innerPage",
-      "innerPagePath": "hp",
-      "_id": "673f16f850df77895eb7b096"
-    },
-    {
-      "isActive": true,
-      "title": "Breaking News",
-      "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/8/5/images/1724925188539_walla-media-picture_96x96.webp",
-      "actionClickType": "category",
-      "clickId": "1001",
-      "categoryName": "Breaking News",
-      "verticalName": "News",
-      "verticalDomain": "news.walla.co.il",
-      "_id": "673f16f850df77895eb7b097"
-    },
-    {
-      "isActive": true,
-      "title": "וידאו",
-      "iconImage": "https://images.wcdn.co.il/3/9/3/3/3933847-46",
-      "actionClickType": "innerPage",
-      "innerPagePath": "quick",
-      "_id": "673f16f850df77895eb7b098"
-    },
-    {
-      "isActive": true,
-      "title": "Hot on Walla",
-      "iconImage": "https://images.wcdn.co.il/3/9/3/3/3933431-46",
-      "actionClickType": "category",
-      "clickId": "1118",
-      "categoryName": "Hot on Walla",
-      "verticalName": "News",
-      "verticalDomain": "news.walla.co.il",
-      "_id": "689201b73e4455a930f18d7e"
-    },
-    {
-      "isActive": true,
-      "title": "Personal",
-      "iconImage": "https://image-resizer-walla.walla.cloud/image/2025/1/4/images/1737567685667_walla-media-picture_96x96.webp",
-      "actionClickType": "innerPage",
-      "innerPagePath": "profile",
-      "_id": "673f16f850df77895eb7b09a"
-    }
-  ],
+  "bottomMenu": [],
   "sideMenu": {
     "social": [
       {
