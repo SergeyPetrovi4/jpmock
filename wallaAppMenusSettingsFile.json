@@ -83,7 +83,16 @@
       "_id": "67a0c968149a752907d0b127"
     }
   ],
-  "bottomMenu": [],
+  "bottomMenu": [
+    {
+      "isActive": true,
+      "title": "Home",
+      "iconImage": "https://image-resizer-walla.walla.cloud/image/2024/2/2/images/1707408935076_walla-media-picture_72x72.webp",
+      "actionClickType": "innerPage",
+      "innerPagePath": "hp",
+      "_id": "673f16f850df77895eb7b096"
+    }
+  ],
   "sideMenu": {
     "social": [
       {
