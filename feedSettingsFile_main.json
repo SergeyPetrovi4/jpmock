@@ -201,6 +201,70 @@
             ]
         },
         {
+            "id": "59957f04-c7c6-4d8e-a2b6-ace9a33aabb7",
+            "type": 83,
+            "clickId": "c_46",
+            "mainTitle": "דעות ופרשנויות",
+            "categoryName": "דעות ופרשנויות",
+            "isHeaderBanner": false,
+            "actionClickType": "category",
+            "foregroundColor": "#66A3FF",
+            "isBottomSponsers": false,
+            "sectionFontColor": "dark",
+            "isHeaderSponserLogo": false,
+            "isBottomSponserBanner": false,
+            "sectionBackgroundColor": "#FFFFFF",
+            "items": [
+                {
+                    "id": "64",
+                    "title": "כאילו לא היו דברים מעולם: כך תיראה המלחמה העתידית בין ישראל לחיזבאללה",
+                    "subtitle": "ארגון הטרור השיעי מכין את הקרקע למלחמה עם הכנה לפשיטה על יישובי הצפון הקרובים לגבול, שיגור כלי טיס לא מאויישים ושיקום מעוזו בביירות. האם בתגובה צה\"ל יצליח להגיע עד לביירות ובקעת הלבנון? וגם האיראנים עדיין כאן - מנסים לעזור לבת טיפוחם הלבנונית",
+                    "link": "https://walla.cloud/tech/test1111/israel",
+                    "itemType": "image",
+                    "marketingContent": true,
+                    "externalItem": false,
+                    "totalComments": 0,
+                    "media": [
+                        {
+                            "type": "image",
+                            "url": "https://image-resizer-walla-dev.walla.cloud/image/2025/9/5/images/1759225338555_walla-media-picture_1400x933.webp?width=200&undefined&crop_x=undefined&crop_y=undefined",
+                            "title": "טראמפ וביבי"
+                        }
+                    ],
+                    "writers": [
+                        {
+                            "name": "שטראוס"
+                        }
+                    ]
+                },
+                {
+                    "id": "55",
+                    "date": 1761489313195,
+                    "title": "בדרך לפיצוץ? בינה מלאכותית היא הבועה הגדולה בהיסטוריה",
+                    "subtitle": "ההשקעות בבינה המלאכותית שוברות שיאים, אבל ניתוחים מראים כי הבועה ש-AI יצרה כבר גדולה פי 17 מבועת הדוט-קום ופי 4 מבועת הסאב-פריים שהפילה את הכלכלה ב-2008. בזמן ש-OpenAI מפסידה מיליארדים, השווי שלה רק מזנק - ויחד איתה גם הונם של המיליארדרים שדוחפים אותה\n",
+                    "link": "https://walla.cloud/tech/test1111/12sdfsd123",
+                    "itemType": "image",
+                    "marketingContent": false,
+                    "externalItem": false,
+                    "totalComments": 0,
+                    "media": [
+                       {
+                            "type": "image",
+                            "url": "https://image-resizer-walla-dev.walla.cloud/image/2025/10/3/images/1760620096331_walla-media-picture_1536x1024.webp?width=200",
+                            "title": "ספוטיפיי"
+                        }
+                    ],
+                    "writers": [
+                        {
+                            "name": "תומר ליט",
+                            "imageUrl": "https://image-resizer-walla-dev.walla.cloud/image/2025/10/2/images/1759915157200_walla-media-picture_573x430.webp?width=200&aspectRatio=1:1"
+                        }
+                    ]
+                }
+            ],
+            "verticalDomain": "news.walla.co.il"
+        },
+        {
             "type": 7,
             "_id": "67ebc48aaaf7ffcc3da9483f",
             "items": [
@@ -2371,70 +2435,6 @@
                     "adType": "taboola"
                 }
             ]
-        },
-        {
-            "id": "59957f04-c7c6-4d8e-a2b6-ace9a33aabb7",
-            "type": 83,
-            "clickId": "c_46",
-            "mainTitle": "דעות ופרשנויות",
-            "categoryName": "דעות ופרשנויות",
-            "isHeaderBanner": false,
-            "actionClickType": "category",
-            "foregroundColor": "#66A3FF",
-            "isBottomSponsers": false,
-            "sectionFontColor": "dark",
-            "isHeaderSponserLogo": false,
-            "isBottomSponserBanner": false,
-            "sectionBackgroundColor": "#FFFFFF",
-            "items": [
-                {
-                    "id": "64",
-                    "title": "כאילו לא היו דברים מעולם: כך תיראה המלחמה העתידית בין ישראל לחיזבאללה",
-                    "subtitle": "ארגון הטרור השיעי מכין את הקרקע למלחמה עם הכנה לפשיטה על יישובי הצפון הקרובים לגבול, שיגור כלי טיס לא מאויישים ושיקום מעוזו בביירות. האם בתגובה צה\"ל יצליח להגיע עד לביירות ובקעת הלבנון? וגם האיראנים עדיין כאן - מנסים לעזור לבת טיפוחם הלבנונית",
-                    "link": "https://walla.cloud/tech/test1111/israel",
-                    "itemType": "image",
-                    "marketingContent": true,
-                    "externalItem": false,
-                    "totalComments": 0,
-                    "media": [
-                        {
-                            "type": "image",
-                            "url": "https://image-resizer-walla-dev.walla.cloud/image/2025/9/5/images/1759225338555_walla-media-picture_1400x933.webp?width=200&undefined&crop_x=undefined&crop_y=undefined",
-                            "title": "טראמפ וביבי"
-                        }
-                    ],
-                    "writers": [
-                        {
-                            "name": "שטראוס"
-                        }
-                    ]
-                },
-                {
-                    "id": "55",
-                    "date": 1761489313195,
-                    "title": "בדרך לפיצוץ? בינה מלאכותית היא הבועה הגדולה בהיסטוריה",
-                    "subtitle": "ההשקעות בבינה המלאכותית שוברות שיאים, אבל ניתוחים מראים כי הבועה ש-AI יצרה כבר גדולה פי 17 מבועת הדוט-קום ופי 4 מבועת הסאב-פריים שהפילה את הכלכלה ב-2008. בזמן ש-OpenAI מפסידה מיליארדים, השווי שלה רק מזנק - ויחד איתה גם הונם של המיליארדרים שדוחפים אותה\n",
-                    "link": "https://walla.cloud/tech/test1111/12sdfsd123",
-                    "itemType": "image",
-                    "marketingContent": false,
-                    "externalItem": false,
-                    "totalComments": 0,
-                    "media": [
-                       {
-                            "type": "image",
-                            "url": "https://image-resizer-walla-dev.walla.cloud/image/2025/10/3/images/1760620096331_walla-media-picture_1536x1024.webp?width=200",
-                            "title": "ספוטיפיי"
-                        }
-                    ],
-                    "writers": [
-                        {
-                            "name": "תומר ליט",
-                            "imageUrl": "https://image-resizer-walla-dev.walla.cloud/image/2025/10/2/images/1759915157200_walla-media-picture_573x430.webp?width=200&aspectRatio=1:1"
-                        }
-                    ]
-                }
-            ],
-            "verticalDomain": "news.walla.co.il"
         }
     ]
 }
