@@ -8,6 +8,14 @@
       "actionClickType": "innerPage",
       "innerPagePath": "hp",
       "_id": "673f16f850df77895eb7b096"
+    },
+    {
+      "isActive": true,
+      "title": "Personal",
+      "iconImage": "https://image-resizer-walla.walla.cloud/image/2025/1/4/images/1737567685667_walla-media-picture_96x96.webp",
+      "actionClickType": "innerPage",
+      "innerPagePath": "profile",
+      "_id": "673f16f850df77895eb7b09a"
     }
   ],
   "sideMenu": {
