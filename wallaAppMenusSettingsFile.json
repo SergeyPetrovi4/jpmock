@@ -3,19 +3,19 @@
   "bottomMenu": [
     {
       "isActive": true,
-      "title": "Profile",
-      "iconImage": "https://github.com/SergeyPetrovi4/jpmock/blob/main/profile_page.png?raw=true",
-      "actionClickType": "innerPage",
-      "innerPagePath": "profile",
-      "_id": "673f16f850df77895eb7b09a"
-    },
-    {
-      "isActive": true,
       "title": "Home",
       "iconImage": "https://github.com/SergeyPetrovi4/jpmock/blob/main/home_page.png?raw=true",
       "actionClickType": "innerPage",
       "innerPagePath": "hp",
       "_id": "673f16f850df77895eb7b096"
+    },
+    {
+      "isActive": true,
+      "title": "Profile",
+      "iconImage": "https://github.com/SergeyPetrovi4/jpmock/blob/main/profile_page.png?raw=true",
+      "actionClickType": "innerPage",
+      "innerPagePath": "profile",
+      "_id": "673f16f850df77895eb7b09a"
     },
     {
       "isActive": true,
